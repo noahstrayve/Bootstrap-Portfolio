@@ -1,0 +1,85 @@
+.top-buffer {
+	margin-top: 80px;
+}
+
+#borders {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #2d7bb2;
+}
+
+.Bio {
+	margin-left: 100px;
+	margin-right: 20px;
+	background: white;
+}
+
+.Connect {
+	background: white;
+
+}
+
+body {
+	background-image: url("images/vintage-concrete.png");
+	background-repeat: repeat;
+}
+
+.footer {
+	background: #2d7bb2;
+	height: 60px;
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+}
+
+small {
+	margin-top: -10px;
+}
+
+.ConnectIcon {
+	height: 40px;
+	width: 40px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.PortfolioLabel {
+	height: 60px;
+	background: #2d7bb2;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	vertical-align: middle;
+}
+
+.Labels {
+
+}
+
+.Icons {
+	height: 200px;
+}
+
+.PortfolioIcon {
+	height: 280px;
+	width: 250px;
+	margin-left: 20px;
+	margin-top: 20px;
+	float: left;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #2d7bb2;
+	align-content: center;
+	vertical-align: middle;
+	margin-bottom: 10px;
+}
+
+.spacing {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h4 {
+	vertical-align: middle;
+}
